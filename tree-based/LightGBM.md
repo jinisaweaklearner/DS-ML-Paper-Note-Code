@@ -1,4 +1,4 @@
-### LightGBM: A Highly Efficient Gradient Boosting Decision Tree
+## LightGBM: A Highly Efficient Gradient Boosting Decision Tree
 Published Year: 2017
 Author: Microsoft
 
@@ -31,30 +31,30 @@ reduce the number of features -> filter weak features -> principle component ana
 
 - if an instance is associated with a small gradient, the training error for this instance is small and it is already well-trained.
 
-**Pseudocode of GOSS**
-Inputs: 
-I: training data
-d: iterations 
-a: sampling ratio of large gradient data 
-b: sampling ratio of small gradient data 
-loss: loss function
-L: weak learner 
+**Pseudocode of GOSS** <br/>
+Inputs: <br/>
+I: training data <br/>
+d: iterations <br/>
+a: sampling ratio of large gradient data <br/>
+b: sampling ratio of small gradient data <br/>
+loss: loss function <br/>
+L: weak learner <br/>
 
-models ← {}
-fact ← (1−a)/b
-topN ← a × len(I) 
-randN ← b × len(I) 
+models ← {} <br/>
+fact ← (1−a)/b <br/>
+topN ← a × len(I) <br/>
+randN ← b × len(I) <br/>
 
-for i = 1 to d do:
-&emsp;&emsp; preds ← models.predict(I) 
-&emsp;&emsp; g ← loss(I, preds), w← {1,1,...}
-&emsp;&emsp; sorted ← GetSortedIndices(abs(g)) 
-&emsp;&emsp; topSet ← sorted[1:topN] 
-&emsp;&emsp; randSet ← RandomPick(sorted[topN:len(I)], randN) 
-&emsp;&emsp; usedSet ← topSet + randSet 
-&emsp;&emsp; w[randSet] × = fact |  Assign weight fact to the small gradient data. 
-&emsp;&emsp; newModel ← L(I[usedSet], − g[usedSet], w[usedSet])
-&emsp;&emsp; models.append(newModel)
+for i = 1 to d do: <br/>
+&emsp;&emsp; preds ← models.predict(I) <br/>
+&emsp;&emsp; g ← loss(I, preds), w← {1,1,...} <br/>
+&emsp;&emsp; sorted ← GetSortedIndices(abs(g)) <br/>
+&emsp;&emsp; topSet ← sorted[1:topN]  <br/>
+&emsp;&emsp; randSet ← RandomPick(sorted[topN:len(I)], randN) <br/>
+&emsp;&emsp; usedSet ← topSet + randSet <br/>
+&emsp;&emsp; w[randSet] × = fact |  Assign weight fact to the small gradient data. <br/>
+&emsp;&emsp; newModel ← L(I[usedSet], − g[usedSet], w[usedSet]) <br/>
+&emsp;&emsp; models.append(newModel) <br/>
 
 **Exclusive Feature Bundling**
 
