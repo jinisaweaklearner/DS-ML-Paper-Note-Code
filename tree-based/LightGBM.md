@@ -1,4 +1,4 @@
-## LightGBM: A Highly Efficient Gradient Boosting Decision Tree
+# LightGBM: A Highly Efficient Gradient Boosting Decision Tree
 Published Year: 2017 <br/>
 Author: Microsoft
 
