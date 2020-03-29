@@ -12,7 +12,7 @@ $\mathcal{L}(\phi)=\sum_{i} l\left(\hat{y}_{i}, y_{i}\right)+\sum_{k} \Omega\lef
 where $\Omega(f)=\gamma T+\frac{1}{2} \lambda\|w\|^{2}$ <br/>
 T: the number of leaves <br/>
 w: leaf weights <br/>
-Ω penalizes the complexity of the model <br/>
+Ω penalizes the complexity of markdown-all-in-onemarkdown-all-in-onethe model <br/>
 - a continuous score on each of the leaf, we use wi to represent score on i-th leaf.
 - the regularized objective will tend to select a model employing simple and predictive functions.
 
@@ -28,8 +28,10 @@ w: leaf weights <br/>
 - subsampling columns not only reduces running time, and but also gives a bit higher performance for this problem. This could due to the fact that the subsampling helps prevent overfitting, which is observed by many of the users.
 
 **Gradient Tree Boosting**
+
 $\mathcal{L}^{(t)}=\sum_{i=1}^{n} l\left(y_{i}, \hat{y}_{i}^{(t-1)}+f_{t}\left(\mathbf{x}_{i}\right)\right)+\Omega\left(f_{t}\right)$
 $\mathcal{L}^{(t)} \simeq \sum_{i=1}^{n}\left[l\left(y_{i}, \hat{y}^{(t-1)}\right)+g_{i} f_{t}\left(\mathbf{x}_{i}\right)+\frac{1}{2} h_{i} f_{t}^{2}\left(\mathbf{x}_{i}\right)\right]+\Omega\left(f_{t}\right)$
+
 Second-order approximation can be used to quickly optimize the objective in the general setting.
 
 should know more about: taylor expansion
@@ -37,6 +39,7 @@ should know more about: taylor expansion
 - https://en.wikipedia.org/wiki/Taylor's_theorem
 
 $\tilde{\mathcal{L}}^{(t)}(q)=-\frac{1}{2} \sum_{j=1}^{T} \frac{\left(\sum_{i \in I_{j}} g_{i}\right)^{2}}{\sum_{i \in I_{j}} h_{i}+\lambda}+\gamma T$
+
 The formular can be used as a scoring function to measure the quality of a tree structure q. This score is like the impurity score for evaluating decision trees, except that it is derived for a wider range of objective functions.
 
 ![](img/xgboost-formula.png)
