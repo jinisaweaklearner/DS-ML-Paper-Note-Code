@@ -5,11 +5,12 @@
 Nowadays, there are more and more ML related papers. Here, the target is to read those important papers in practice. So, we can have a better understanding of how the algorithms work.
 
 ## Tree-based
-* LightGBM: A Highly Efficient Gradient Boosting Decision Tree [[Paper]](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf) [[notes]](tree-based/LightGBM.md) 
+* LightGBM: A Highly Efficient Gradient Boosting Decision Tree [[Paper]](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf) [[Notes]](tree-based/LightGBM.md) 
+* XGBoost: A Scalable Tree Boosting System [[Paper]](https://arxiv.org/pdf/1603.02754.pdf) [[Notes]](tree-based/XGBoost.pdf) 
 
 
 
-## Next Paper
+## Next Papers
 - SMOTE
 - SHAP/LIME
 
