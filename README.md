@@ -9,7 +9,7 @@ Nowadays, there are more and more ML related papers. Here, the target is to read
 * XGBoost: A Scalable Tree Boosting System [[Paper]](https://arxiv.org/pdf/1603.02754.pdf) [[Notes]](notes/XGBoost.pdf) 
 
 ## Imbalanced problem
-* SMOTE: Synthetic Minority Over-sampling Technique [[Paper]](https://arxiv.org/pdf/1106.1813.pdf) [[Notes]](notes/Smote.pdf) 
+* SMOTE: Synthetic Minority Over-sampling Technique [[Paper]](https://arxiv.org/pdf/1106.1813.pdf) [[Notes]](notes/Smote.md) 
 
 ## Next Papers
 - SHAP/LIME
