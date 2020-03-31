@@ -2,10 +2,12 @@
 Published Year: 2017 <br/>
 Author: Microsoft
 
-**Motivation** 
+**Motivation**
+
 The efficiency and scalability are still unsatisfactory when the feature dimension is high and data size is large.
 
 **Issues** 
+
 For each feature, need to scan all the data instances to estimate the `information gain` of all possible split points, which is very `time consuming`.
 
 **Solutions**
@@ -19,6 +21,7 @@ which enumerates all possible split points on the pre-sorted feature values --> 
 - histogram-based algorithm
 
 **Related work**
+
 reduce the number of features -> filter weak features -> principle component analysis or projection pursuit | assume features contain significant redundancy -> not always be true in practice (features
 
 **Gradient-based One-Side Sampling**
