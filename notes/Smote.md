@@ -1,6 +1,8 @@
 # SMOTE: Synthetic Minority Over-sampling Technique
-Published Year: 2002 <br/>
-Author: Chawla, Nitesh V Bowyer, Kevin W Hall, Lawrence O Kegelmeyer, W Philip
+**Published Year**: 2002 <br/>
+**Author**: Chawla, Nitesh V Bowyer, Kevin W Hall, Lawrence O Kegelmeyer, W Philip
+
+## Key points
 
 - Under-sampling of the majority (normal)class has been proposed as a good means of increasing the sensitivity of a classifier to the minority class.
 
@@ -10,11 +12,11 @@ Author: Chawla, Nitesh V Bowyer, Kevin W Hall, Lawrence O Kegelmeyer, W Philip
 
 - SMOTE builds larger decision regions that contain nearby minority class points.
 
-**why Smote is better than over sampling**
+## Why SMOTE is better than over sampling
 
 minority over-sampling is done by `replication` (sampling with replacement)versus the introduction of synthetic examples. With replication, the decision region that results in a classification decision for the minority class can actually `become smaller and more specific` as the minority samples in the region are replicated.
 
-**Pseudocode**
+## Pseudocode
 
 Randomization is used three times. <br/>
 1. randomize minority class samples  <br/>
