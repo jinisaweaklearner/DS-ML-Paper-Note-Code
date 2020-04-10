@@ -1,8 +1,5 @@
 # Papers and Code in ML and DL
-
-*One weekend one paper!*
-
-Nowadays, there are more and more ML related papers. Here, the target is to read those important papers in practice. So, we can have a better understanding of how the algorithms work.
+The target is to understand those important papers and implement them in practice.
 
 ## Tree-based
 * LightGBM: A Highly Efficient Gradient Boosting Decision Tree [[Paper]](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf) [[Notes]](notes/LightGBM.md) 
