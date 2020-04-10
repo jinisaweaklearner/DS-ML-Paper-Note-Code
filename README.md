@@ -11,7 +11,9 @@ Nowadays, there are more and more ML related papers. Here, the target is to read
 ## Imbalanced problem
 * SMOTE: Synthetic Minority Over-sampling Technique [[Paper]](https://arxiv.org/pdf/1106.1813.pdf) [[Notes]](notes/Smote.md) 
 
+## NLP
+* RoBERTa: A Robustly Optimized BERT Pretraining Approach [[Paper]](https://arxiv.org/pdf/1907.11692.pdf) [[Code]](src/RoBERTa_multi_class_yelp5.ipynb) 
+
+
 ## Next Papers
 - SHAP/LIME
-
-The format is inspired by the [repo](https://github.com/yassouali/ML_paper_notes/).
