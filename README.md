@@ -1,4 +1,4 @@
-# ML-papers
+# Machine Learning/ Deep Learning papers and hands-on code
 
 *One weekend one paper!*
 
