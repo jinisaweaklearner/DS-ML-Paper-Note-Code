@@ -1,4 +1,4 @@
-# papers and code about Machine Learning and Deep Learning
+# Papers and Code in ML and DL
 
 *One weekend one paper!*
 
