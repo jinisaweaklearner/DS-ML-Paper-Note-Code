@@ -46,8 +46,8 @@ Language Understanding [[Paper]](https://arxiv.org/pdf/1810.04805.pdf)
 
 
 ## Anomaly Detection
+- Isolation Forest [[Paper]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf?q=isolation-forest) [[Video]](https://www.youtube.com/watch?v=5p8B2Ikcw-k) 
 - One-Class SVM
-- Isolation Forest [[Paper]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf?q=isolation-forest) [[Notes]](notes/Smote.md) 
 - Local Outlier Factor
 - Robust Covariance
 
