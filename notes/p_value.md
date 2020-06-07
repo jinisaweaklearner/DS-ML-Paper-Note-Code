@@ -21,9 +21,7 @@ Suppose p is 0.03, if we still believe the null hypothesis is true, the probabil
 
 - s1 and s2 are the standard deviations of each group
 
-$$
-\sqrt{\frac{s1^{2}+s2^{2}}{2}}
-$$
+   <img src="https://cdn.mathpix.com/snip/images/B0KcFQg544LhdK_nBzjMhK8WowuEy_yFTrzO-sTlmwE.original.fullsize.png" />
 
 
 

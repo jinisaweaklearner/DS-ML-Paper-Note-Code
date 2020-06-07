@@ -70,6 +70,6 @@ Explaining the Predictions of Any Classifier [[Paper]](https://cs.nju.edu.cn/zho
 - Adversarial Validation: solve the problem  [[Part1]](http://fastml.com/adversarial-validation-part-one/) [[Part1]](http://fastml.com/adversarial-validation-part-two/) [[Video]](https://www.youtube.com/watch?v=7cUCDRaIZ7I) [[Code]](https://github.com/zjost/blog_code/blob/master/adversarial_validation/adversarial-validation-example.ipynb)
 
 ## AB Testing 
--  Dance of the P Values [[Video]](https://www.youtube.com/watch?v=5OL1RqHrZQ8)
+-  P Value, effect size and power analysis [[Notes]](notes/p_value.md)
 
 
