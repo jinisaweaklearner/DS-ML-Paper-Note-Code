@@ -57,3 +57,4 @@ In other words, if I get 9 observations in each group, I will have 80% chance th
 
 - Be careful about P hacking https://www.youtube.com/watch?v=HDCOUXE3HMM
 - Power anlysis https://www.youtube.com/watch?v=VX_M3tIyiYk
+- dance of p values https://www.youtube.com/watch?v=5OL1RqHrZQ8
