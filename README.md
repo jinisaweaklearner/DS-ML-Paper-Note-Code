@@ -1,4 +1,4 @@
-# Papers and Code in ML and DL
+# Papers, notes and Code in ML and DL
 Understand those important papers and implement them in practice.
 
 ## Tree-based
