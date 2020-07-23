@@ -7,7 +7,7 @@
 
 ##### which alpha (threshold) will be chosen in a/b testing? why?
 
-Based on where you want to use it.  In maunfact or medicent testing, the thresthold could be very small. In general, **0.05 is fine to reject null hypothesis **(no diff between two groups).
+Based on where you want to use it.  In maunfact or medicent testing, the thresthold could be very small. In general, **0.05 is fine to reject null hypothesis **(which is no diff between two groups).
 
 
 
