@@ -11,7 +11,7 @@ Scaling to a range is a good choice when both of the following conditions are me
 ## Log Scale
 why log scale? Log scale can help to identy the parttern of values in different ranges.
 
-`Eaxmaple`
+Eaxmaple
 
 The two time series plots below show monthly visitor arrivals to New Zealand, available from Statistics New Zealand. You can see that the seasonality in arrivals stays roughly proportional to the scale of the arrivals; and you can see the significant changes in growth rate (eg during the second world war) which are just invisible on the original scale.
 ![](https://i.stack.imgur.com/IYF9Q.png)
