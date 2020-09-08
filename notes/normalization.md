@@ -1,7 +1,9 @@
 # Normalization
 
 ## Min-Max
-Min-Max is probably the most commonly used transformation. This transforms the numerical variable into a new range, for example, 0 to 1.
+Highlights:
+- Min-Max transforms the numerical variable into a new range. i.e. 0 to 1
+- The distribution won't be changed after normalization.
 
 Scaling to a range is a good choice when both of the following conditions are met:
 - You know the approximate upper and lower bounds on your data with few or no outliers.
@@ -25,3 +27,8 @@ use z-score to ensure your feature distributions have mean = 0 and std = 1
 It’s useful when there are a few outliers, but not so extreme that you need clipping.
 
 ![](https://developers.google.com/machine-learning/data-prep/images/norm-z-score.svg)
+
+
+
+https://www.codecademy.com/articles/normalization#:~:text=Min%2Dmax%20normalization%20is%20one,decimal%20between%200%20and%201.
+![](https://s3.amazonaws.com/codecademy-content/courses/normalization/z-score.png)
