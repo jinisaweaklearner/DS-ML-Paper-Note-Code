@@ -1,4 +1,4 @@
-# Papers, notes and Code in Data Science and Machine learning
+# Papers, Notes and Code in Data Science and Machine learning
 Understand those important papers and implement them in practice.
 
 ## Tree-based
