@@ -24,7 +24,7 @@ which enumerates all possible split points on the pre-sorted feature values --> 
 
 reduce the number of features -> filter weak features -> principle component analysis or projection pursuit | assume features contain significant redundancy -> not always be true in practice (features
 
-**Gradient-based One-Side Sampling**
+### 1. Gradient-based One-Side Sampling
 
 - exclude a significant proportion of data instances with small gradients, and only use the rest to estimate the information gain.
 
@@ -59,7 +59,7 @@ for i = 1 to d do: <br/>
 &emsp;&emsp; newModel ← L(I[usedSet], − g[usedSet], w[usedSet]) <br/>
 &emsp;&emsp; models.append(newModel) <br/>
 
-**Exclusive Feature Bundling**
+### 2. Exclusive Feature Bundling
 
 - feature space is quite `sparse`
 - they rarely take `nonzero values` simultaneously
