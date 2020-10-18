@@ -13,7 +13,8 @@ Understand those important papers and implement them in practice.
 ## Auto ML
 - H2O AutoML [[Code]](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) 
 
-
+## SVM
+- SVM [[Notes]](notes/svm.md)
 
 ## NLP Pre-trained Model
 - RoBERTa: A Robustly Optimized BERT Pretraining Approach [[Paper]](https://arxiv.org/pdf/1907.11692.pdf) [[Code]](src/RoBERTa_multi_class_yelp5.ipynb) 
