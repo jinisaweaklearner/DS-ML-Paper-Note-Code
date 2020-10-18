@@ -16,6 +16,13 @@ Understand those important papers and implement them in practice.
 ## SVM
 - SVM [[Notes]](notes/svm.md)
 
+## Non Linear Methods
+- Polynomial Regression [[Notes]](notes/nonlinear_methods.md##Polynomial\ Regression)
+- Step functions [[Notes]](notes/nonlinear_methods.md##Step\ functions)
+- Regression splines [[Notes]](notes/nonlinear_methods.md##Regression\ splines)
+- Local Regression [[Notes]](notes/nonlinear_methods.md##Local\ regression)
+- Generalized additive models [[Notes]](notes/nonlinear_methods.md##Generalized\ additive\ models)
+
 ## NLP Pre-trained Model
 - RoBERTa: A Robustly Optimized BERT Pretraining Approach [[Paper]](https://arxiv.org/pdf/1907.11692.pdf) [[Code]](src/RoBERTa_multi_class_yelp5.ipynb) 
 - ULMFiT: Universal Language Model Fine-tuning for Text Classification [[Paper]](https://arxiv.org/pdf/1801.06146.pdf)
