@@ -21,8 +21,9 @@
 - Ridge regression will perform better when the response is a function of many predictors, all with coefficients of roughly equal size
 - The lasso to perform better in a setting where a relatively small number of predictors have substantial coefficients.
 - we have L1 and L2, why not use L3 L4 ...etc?
+  - https://stats.stackexchange.com/questions/269298/why-do-we-only-see-l-1-and-l-2-regularization-but-not-other-norms/269407
 - what is actually L1 and L2 norm?
-![](https://cdn.mathpix.com/snip/images/CKDvc-0dH7hddnuHEbqdS-H0rlPdW2E8L4NzMNJoC9g.original.fullsize.png)
+  - ![formular of beta](https://cdn.mathpix.com/snip/images/CKDvc-0dH7hddnuHEbqdS-H0rlPdW2E8L4NzMNJoC9g.original.fullsize.png)
 
 ## Shape of L1 and L2 (videoes)
 - [Lasso](https://youtu.be/jbwSCwoT51M)
