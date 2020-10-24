@@ -20,7 +20,7 @@ the information as possible
 ## Principal Component Regression
 - definition
   - transform the predictors and then fit a least squares model (linear regression) using the transformed variables.
-- assumption
+- motivation
   - use less features and overcome overfitting
 - PCR is not a feature selection method
 
