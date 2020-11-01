@@ -12,7 +12,7 @@ the information as possible
   - maximize the variance of features after dimention reduction
   - minimise the sum of the squared perpendicular distances
 - principal conponent scores (z)
-  - z = phi * (value of features - avg value)
+  - z = phi * (value of features - `avg value`)
 - proportion of variance explained (PVE) by each proportion of variance explained principal component
   - var(phi * (x - mean of x)) / var(x)
 
