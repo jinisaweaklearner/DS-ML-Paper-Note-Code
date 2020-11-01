@@ -16,6 +16,12 @@ Understand those important papers and implement them in practice.
 ## SVM
 - SVM [[Notes]](notes/svm.md)
 
+## Dimention Reduction
+- PCA PCR PLS [[Notes]](notes/dimention_reduction.md)
+- MDS
+- t-SNE
+- Auto Encoder
+
 ## Non Linear Methods
 - Polynomial Regression [[Notes]](notes/nonlinear_methods.md)
 - Step functions [[Notes]](notes/nonlinear_methods.md)
