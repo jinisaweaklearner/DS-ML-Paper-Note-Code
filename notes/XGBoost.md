@@ -58,3 +58,10 @@ To summarize, the algorithm first proposes candidate splitting points according 
 
 **Handle missing values**
 ![Missing values](img/xgboost-missingvalue.png)
+
+
+## resources
+xgboost
+https://xgboost.readthedocs.io/en/latest/tutorials/model.html
+vis
+https://www.mariofilho.com/can-gradient-boosting-learn-simple-arithmetic/
