@@ -4,13 +4,13 @@
 
 |Model Name | Category | Paper  | Notes   | Code  |
 |---|:---:|:---:|:---:|:---:|
-| Decision Tree  | -  |   |   |   |
+| Decision Tree  | -  | -  | [Notes](notes/decision_tree.md)   |   |
 | Random Forest  |  bagging |   |  [Notes](notes/random_forest.md)  |    |
-| AdaBoost: Adaptive Boosting  |  boosting |   | [Notes](notes/adaboost.md) |   |
+| AdaBoost: Adaptive Boosting  |  boosting |   | [Notes](notes/adaboost.md) | [Code](AdaboostClassification.ipynb)  |
 | GBDT: Gradient Boosting Decision Tree  |  boosting |   | [Notes](notes/gbdt.md)   | [Code](https://github.com/jinisaweaklearner/DS-ML-Paper-Note-Code/blob/master/src/GradientBoostingDecisionTree(GBDT).ipynb)  |
-| LightGBM: A Highly Efficient Gradient Boosting Decision Tree |  boosting |[Paper](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf) |  [Notes](notes/LightGBM.md)  |   |
-| XGBoost: A Scalable Tree Boosting System  |  boosting | [Paper](https://arxiv.org/pdf/1603.02754.pdf)  | [Notes](notes/XGBoost.pdf)   |   |
-| CatBoost: unbiased boosting with categorical features  |  boosting | [Paper](https://arxiv.org/pdf/1706.09516.pdf) | [Notes](notes/CatBoost.md)   |   |
+| LightGBM: A Highly Efficient Gradient Boosting Decision Tree |  boosting |[Paper](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf) |  [Notes](notes/lightgbm.md)  |   |
+| XGBoost: A Scalable Tree Boosting System  |  boosting | [Paper](https://arxiv.org/pdf/1603.02754.pdf)  | [Notes](notes/xgboost.pdf)   |   |
+| CatBoost: unbiased boosting with categorical features  |  boosting | [Paper](https://arxiv.org/pdf/1706.09516.pdf) | [Notes](notes/catboost.md)   |   |
 | Deep Forest: Towards an Alternative to Deep Neural Networks  |  - | [Paper](https://arxiv.org/pdf/1702.08835v2.pdf) |  |[Github](https://github.com/kingfengji/gcForest)  |
 
 
