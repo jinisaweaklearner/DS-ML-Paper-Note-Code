@@ -1,5 +1,4 @@
 # Papers, Notes and Code in Data Science and Machine learning
-Understand those important papers and implement them in practice.
 
 ## Tree-based
 
@@ -8,7 +7,7 @@ Understand those important papers and implement them in practice.
 | Decision Tree  | -  |   |   |   |
 | Random Forest  |  bagging |   |  [Notes](notes/random_forest.md)  |    |
 | AdaBoost: Adaptive Boosting  |  boosting |   | [Notes](notes/adaboost.md) |   |
-| GBDT: Gradient Boosting Decision Tree  |  boosting |   | [Notes](notes/dbdt.md)   |   |
+| GBDT: Gradient Boosting Decision Tree  |  boosting |   | [Notes](notes/gbdt.md)   | [Code](https://github.com/jinisaweaklearner/DS-ML-Paper-Note-Code/blob/master/src/GradientBoostingDecisionTree(GBDT).ipynb)  |
 | LightGBM: A Highly Efficient Gradient Boosting Decision Tree |  boosting |[Paper](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf) |  [Notes](notes/LightGBM.md)  |   |
 | XGBoost: A Scalable Tree Boosting System  |  boosting | [Paper](https://arxiv.org/pdf/1603.02754.pdf)  | [Notes](notes/XGBoost.pdf)   |   |
 | CatBoost: unbiased boosting with categorical features  |  boosting | [Paper](https://arxiv.org/pdf/1706.09516.pdf) | [Notes](notes/CatBoost.md)   |   |
