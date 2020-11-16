@@ -4,7 +4,7 @@
 
 |Model Name | Category | Paper  | Notes   | Code  |
 |---|:---:|:---:|:---:|:---:|
-| Decision Tree  | -  | -  | [Notes](notes/decision_tree.md)   |   |
+| Decision Tree (ID3,C4.5,CART) | -  | -  | [Notes](notes/decision_tree.md)   |   |
 | Random Forest  |  bagging |   |  [Notes](notes/random_forest.md)  |    |
 | AdaBoost: Adaptive Boosting  |  boosting |   | [Notes](notes/adaboost.md) | [Code](AdaboostClassification.ipynb)  |
 | GBDT: Gradient Boosting Decision Tree  |  boosting |   | [Notes](notes/gbdt.md)   | [Code](https://github.com/jinisaweaklearner/DS-ML-Paper-Note-Code/blob/master/src/GradientBoostingDecisionTree(GBDT).ipynb)  |
