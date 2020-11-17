@@ -6,7 +6,7 @@
 |---|:---:|:---:|:---:|:---:|
 | Decision Tree (ID3,C4.5,CART) | -  | -  | [Notes](notes/decision_tree.md)   |   |
 | Random Forest  |  bagging |   |  [Notes](notes/random_forest.md)  |    |
-| AdaBoost: Adaptive Boosting  |  boosting |   | [Notes](notes/adaboost.md) | [Code](AdaboostClassification.ipynb)  |
+| AdaBoost: Adaptive Boosting  |  boosting |   | [Notes](notes/adaboost.md) | [Code](https://github.com/jinisaweaklearner/DS-ML-Paper-Note-Code/blob/master/src/AdaboostClassification.ipynb)  |
 | GBDT: Gradient Boosting Decision Tree  |  boosting |   | [Notes](notes/gbdt.md)   | [Code](https://github.com/jinisaweaklearner/DS-ML-Paper-Note-Code/blob/master/src/GradientBoostingDecisionTree(GBDT).ipynb)  |
 | LightGBM: A Highly Efficient Gradient Boosting Decision Tree |  boosting |[Paper](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf) |  [Notes](notes/lightgbm.md)  |   |
 | XGBoost: A Scalable Tree Boosting System  |  boosting | [Paper](https://arxiv.org/pdf/1603.02754.pdf)  | [Notes](notes/xgboost.md)   |   |
