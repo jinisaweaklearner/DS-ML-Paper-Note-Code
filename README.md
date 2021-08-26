@@ -61,6 +61,8 @@ Language Understanding [[Paper]](https://arxiv.org/pdf/1810.04805.pdf)
 - Glicko [[Paper]](http://www.glicko.net/research/acjpaper.pdf)
 - Glicko2 [[Code]](https://bitbucket.org/deepy/glicko2/src/default/)
 - Trueskill: A Bayesian Skill Rating System  [[Web]](https://trueskill.org/) [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/01/NIPS2006_0688.pdf)
+- BBT https://github.com/DataWraith/bbt
+- ELO-MMR https://github.com/EbTech/Elo-MMR
 
 
 ## Anomaly Detection
