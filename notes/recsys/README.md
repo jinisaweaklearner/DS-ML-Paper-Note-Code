@@ -7,3 +7,7 @@
 
 
 - lightfm https://github.com/lyst/lightfm/blob/d05289982928f81b957c1f0ff63dcaee0e915f3b/lightfm/evaluation.py
+
+- recall or precision at k https://github.com/TaoMiner/bridgeGap/blob/414b065529f8a5e8ab066d68887fa7d280002647/eval/rank_metrics.py
+
+- example of recall an precision at k https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf
