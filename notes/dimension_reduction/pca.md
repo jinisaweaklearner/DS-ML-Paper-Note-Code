@@ -1,5 +1,6 @@
-# Dimention Reduction
 ## Principal Components Analysis
+- assumption
+  - the original data set has been drawn from a Gaussian distribution. When this assumption does not hold true, there is no warranty that the principal components are meaningful.
 - motivations 
   - producing derived variables for use in supervised learning problems
   - PCA also serves as a tool for data visualization
