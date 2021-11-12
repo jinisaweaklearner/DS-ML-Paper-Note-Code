@@ -11,3 +11,10 @@
 - recall or precision at k https://github.com/TaoMiner/bridgeGap/blob/414b065529f8a5e8ab066d68887fa7d280002647/eval/rank_metrics.py
 
 - example of recall an precision at k https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf
+
+
+ConvNCF https://github.com/duxy-me/ConvNCF
+Neural Collaborative Filtering https://github.com/hexiangnan/neural_collaborative_filtering/tree/master
+MLP https://github.com/hexiangnan/neural_collaborative_filtering/blob/master/MLP.py
+GMF in keras https://github.com/hexiangnan/neural_collaborative_filtering/blob/master/GMF.py
+GMF in pytorch https://github.com/hamedrab/wsdm22_cup_xmrec/blob/main/train_baseline.py
