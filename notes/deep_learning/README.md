@@ -18,3 +18,5 @@ https://keras.io/guides/transfer_learning/
 - set weights https://stackoverflow.com/questions/51354186/how-to-update-weights-manually-with-keras
 - layer weight regularizers https://keras.io/api/layers/regularizers/#l1-class
 - layer weight constraints https://keras.io/api/layers/constraints/
+- weight contraints example https://machinelearningmastery.com/how-to-reduce-overfitting-in-deep-neural-networks-with-weight-constraints-in-keras/
+- all constraints https://www.tensorflow.org/api_docs/python/tf/keras/constraints
