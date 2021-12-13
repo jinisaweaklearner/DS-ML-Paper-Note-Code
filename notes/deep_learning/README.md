@@ -20,3 +20,4 @@ https://keras.io/guides/transfer_learning/
 - layer weight constraints https://keras.io/api/layers/constraints/
 - weight contraints example https://machinelearningmastery.com/how-to-reduce-overfitting-in-deep-neural-networks-with-weight-constraints-in-keras/
 - all constraints https://www.tensorflow.org/api_docs/python/tf/keras/constraints
+- keras examples https://www.tutorialspoint.com/keras/keras_layers.html
