@@ -18,3 +18,7 @@ Neural Collaborative Filtering https://github.com/hexiangnan/neural_collaborativ
 MLP https://github.com/hexiangnan/neural_collaborative_filtering/blob/master/MLP.py
 GMF in keras https://github.com/hexiangnan/neural_collaborative_filtering/blob/master/GMF.py
 GMF in pytorch https://github.com/hamedrab/wsdm22_cup_xmrec/blob/main/train_baseline.py
+
+- tensorflow-DeepFM https://github.com/ChenglongChen/tensorflow-DeepFM
+- YellowFin auto-tunning optimizer https://github.com/JianGoForIt/YellowFin
+- PaddleRec https://github.com/PaddlePaddle/PaddleRec
