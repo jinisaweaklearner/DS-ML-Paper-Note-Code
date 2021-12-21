@@ -11,3 +11,7 @@ Also, we can treate embedding as a fully connected layers
 
 ### How does Embedding Layer work?
 - https://github.com/keras-team/keras/issues/3110#issuecomment-345153450
+
+
+Skip-gram Embeddings example
+- https://blog.cambridgespark.com/tutorial-build-your-own-embedding-and-use-it-in-a-neural-network-e9cde4a81296
