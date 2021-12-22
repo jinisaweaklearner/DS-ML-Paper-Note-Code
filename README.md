@@ -1,6 +1,6 @@
 # Papers, Notes and Code in Data Science and Machine learning
 
-## Tree-based
+## Tree-based 
 
 |Model Name | Category | Paper  | Notes   | Code  |
 |---|:---:|:---:|:---:|:---:|
@@ -12,6 +12,14 @@
 | XGBoost: A Scalable Tree Boosting System  |  boosting | [Paper](https://arxiv.org/pdf/1603.02754.pdf)  | [Notes](notes/tree_based/xgboost.md)   |   |
 | CatBoost: unbiased boosting with categorical features  |  boosting | [Paper](https://arxiv.org/pdf/1706.09516.pdf) | [Notes](notes/tree_based/catboost.md)   |   |
 | Deep Forest: Towards an Alternative to Deep Neural Networks  |  - | [Paper](https://arxiv.org/pdf/1702.08835v2.pdf) |  |[Github](https://github.com/kingfengji/gcForest)  |
+
+## Recommender System
+|Model Name|Paper|Notes|Code|Desc|
+|---|:---:|:---:|:---:|:---:|
+| NeuMF| [Paper](https://arxiv.org/pdf/1708.05031.pdf)  | -  | - | a combination of GMF and MLP  |
+| Wide & Deep | [Paper](https://arxiv.org/pdf/1606.07792.pdf)   | -  | - | - |
+| GMF | - | -  | - | generalized matrix factorization with embedding |
+| MLP | - | -  | - | multilayer perceptron with embedding|
 
 
 ## Auto ML
