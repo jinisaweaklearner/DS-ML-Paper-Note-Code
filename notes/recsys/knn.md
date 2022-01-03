@@ -1,1 +1,0 @@
-- Item-Based Collaborative Filtering in Python https://towardsdatascience.com/item-based-collaborative-filtering-in-python-91f747200fab

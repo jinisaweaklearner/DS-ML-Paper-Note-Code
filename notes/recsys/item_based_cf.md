@@ -1,0 +1,2 @@
+- Item-Based Collaborative Filtering in Python https://towardsdatascience.com/item-based-collaborative-filtering-in-python-91f747200fab
+- knn example https://github.com/KevinLiao159/MyDataSciencePortfolio/blob/master/movie_recommender/src/knn_recommender.py
