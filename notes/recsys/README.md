@@ -13,11 +13,11 @@
 - example of recall an precision at k https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf
 
 
-ConvNCF https://github.com/duxy-me/ConvNCF
-Neural Collaborative Filtering https://github.com/hexiangnan/neural_collaborative_filtering/tree/master
-MLP https://github.com/hexiangnan/neural_collaborative_filtering/blob/master/MLP.py
-GMF in keras https://github.com/hexiangnan/neural_collaborative_filtering/blob/master/GMF.py
-GMF in pytorch https://github.com/hamedrab/wsdm22_cup_xmrec/blob/main/train_baseline.py
+- ConvNCF https://github.com/duxy-me/ConvNCF
+- Neural Collaborative Filtering https://github.com/hexiangnan/neural_collaborative_filtering/tree/master
+- MLP https://github.com/hexiangnan/neural_collaborative_filtering/blob/master/MLP.py
+- GMF in keras https://github.com/hexiangnan/neural_collaborative_filtering/blob/master/GMF.py
+- GMF in pytorch https://github.com/hamedrab/wsdm22_cup_xmrec/blob/main/train_baseline.py
 
 - tensorflow-DeepFM https://github.com/ChenglongChen/tensorflow-DeepFM
 - YellowFin auto-tunning optimizer https://github.com/JianGoForIt/YellowFin
