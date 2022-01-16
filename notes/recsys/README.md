@@ -11,7 +11,7 @@
 - recall or precision at k https://github.com/TaoMiner/bridgeGap/blob/414b065529f8a5e8ab066d68887fa7d280002647/eval/rank_metrics.py
 
 - example of recall an precision at k https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf
-- SciPy’s Sparse Module https://towardsdatascience.com/why-we-use-sparse-matrices-for-recommender-systems-2ccc9ab698a4
+- [good explianation of how SciPy’s Sparse Module works](https://towardsdatascience.com/why-we-use-sparse-matrices-for-recommender-systems-2ccc9ab698a4)
 
 - ConvNCF https://github.com/duxy-me/ConvNCF
 - Neural Collaborative Filtering https://github.com/hexiangnan/neural_collaborative_filtering/tree/master
