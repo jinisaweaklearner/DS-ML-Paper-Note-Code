@@ -1,5 +1,10 @@
+"In many parts of our system we are not only optimizing for accuracy, but also for diversity." -- Netflix tech blog
+"Another important element in Netflix’ personalization is awareness. A different way of promoting trust with the personalization component is to provide explanations as to why we decide to recommend a given movie or show." -- Netflix tech blog
 
 ## Resources
+
+- [Netflix Recommendations: Beyond the 5 stars](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429)
+
 - tutorial about autotune https://ansegura7.github.io/RS_Surprise/pages/RS_SVD_Tune.html
 - top@10 elvaluation https://github.com/divensambhwani/MovieLens-100K_Recommender-System/blob/master/MovieLens-100K-Recommeder%20System-SVD.ipynb
 - article at Medium https://towardsdatascience.com/movie-recommender-system-52e4651f3ae7
