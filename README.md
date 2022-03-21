@@ -55,6 +55,7 @@ Language Understanding [[Paper]](https://arxiv.org/pdf/1810.04805.pdf)
 - GRU
 - RNN
 - HMM
+- [DeepAR](https://arxiv.org/pdf/1704.04110.pdf)
 
 ## Traditional Time Series Forecasting
 - Time Series Ebook [[Link]](https://otexts.com/fpp2/ets-forecasting.html)
