@@ -36,6 +36,14 @@ why use R2?
 consider number of observation and number of features
 
 
-### Correlation 
+### Correlation
+- Correlation normalize the contribution of each variable in order to measure how much the variables are related ranther than being affected by the scale of the separate variables.
 ![](http://www.resacorp.com/images/slrund031.gif)
 
+### Covariance
+how much two values are linearly related to each other. 
+- High absolution values mean that values change very much
+- High absolution values mean that both far from their respective means
+- Two variables are independent then covariance is zero
+- Dependence and covariance are two distinct concepts
+- Independence is a stronger rquirement than zero covariance
