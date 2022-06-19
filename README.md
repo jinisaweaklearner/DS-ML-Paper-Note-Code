@@ -49,13 +49,27 @@
 - BERT: Pre-training of Deep Bidirectional Transformers for
 Language Understanding [[Paper]](https://arxiv.org/pdf/1810.04805.pdf)
 
-## Sequential
-- LSTM 
-- BiLSTM
-- GRU
-- RNN
-- HMM
-- [DeepAR](https://arxiv.org/pdf/1704.04110.pdf)
+## Sequential Model
+|Name |Paper|Notes|Code|Desc|
+|---|:---:|:---:|:---:|:---:|
+| LSTM| [Paper](https://arxiv.org/pdf/1708.05031.pdf)  | -  | - | Long Short Term Memory |
+| BiLSTM| - | -  | - | Bidirectional Long Short Term Memory |
+| GRU| -  | -  | - | Gated Recurrent Unit |
+| RNN| - | -  | - | Recurrent Neural Network |
+| DeepAR| [Paper](https://arxiv.org/pdf/1704.04110.pdf)  | - | - | - |
+| N-BEATS| [Paper](https://arxiv.org/pdf/1905.10437.pdf)  | - | - | - |
+
+
+## Time Series Papers
+|Paper Title |Notes|Desc|
+|---|:---:|:---:|
+|[FFORMA: Feature-based forecast model average](https://www.monash.edu/business/ebs/research/publications/ebs/wp19-2018.pdf) | - | 2nd place solution in M4 with 42 TS features|
+|[A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting](https://www.researchgate.net/publication/334556784_A_hybrid_method_of_exponential_smoothing_and_recurrent_neural_networks_for_time_series_forecasting) | - | 1st place solution in M4 with the combination of RNN and ETS|
+|[M5 accuracy competition: Results, findings, and conclusions](https://statmodeling.stat.columbia.edu/wp-content/uploads/2021/10/M5_accuracy_competition.pdf) | - | M5 Summary |
+|[Monash Time Series Forecasting Repository](https://forecastingdata.org/) | - | baseline |
+
+
+
 
 ## Traditional Time Series Forecasting
 - Time Series Ebook [[Link]](https://otexts.com/fpp2/ets-forecasting.html)
