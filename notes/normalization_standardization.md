@@ -1,8 +1,8 @@
-# Normalization
+# Normalization and Standardization
 
 ## Min-Max
 Highlights:
-- Min-Max transforms the numerical variable into a new range. i.e. 0 to 1
+- Min-Max transforms the numerical variable into a new range. i.e. `from 0 to 1`
 - The distribution won't be changed after normalization.
 
 Scaling to a range is a good choice when both of the following conditions are met:
@@ -22,7 +22,7 @@ Other examples: https://dfrieds.com/data-visualizations/when-use-log-scale.html
 
 
 ## Standardization (z-score normalization)
-use z-score to ensure your feature distributions have mean = 0 and std = 1
+use z-score to ensure your feature distributions have `mean = 0 and std = 1`
 
 It’s useful when there are a few outliers, but not so extreme that you need clipping.
 
