@@ -116,4 +116,5 @@ Explaining the Predictions of Any Classifier [[Paper]](https://cs.nju.edu.cn/zho
 ## AB Testing 
 -  P Value, effect size and power analysis [[Notes]](notes/p_value.md)
 
-
+## Resources
+- mlu-explain - nice way to vis ML model https://mlu-explain.github.io/
