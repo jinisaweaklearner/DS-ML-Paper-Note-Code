@@ -80,6 +80,11 @@ Language Understanding [[Paper]](https://arxiv.org/pdf/1810.04805.pdf)
 - Moving Averages 
 - Prophet
 
+## Causal inference
+- online book: [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+- [Causalml python package from Uber](https://github.com/uber/causalml/tree/master)
+- [KDD2021-causal ml](https://causal-machine-learning.github.io/kdd2021-tutorial/)
+
 ## Rating System
 - Elo [[wiki]](https://en.wikipedia.org/wiki/Elo_rating_system)
 - Glicko [[Paper]](http://www.glicko.net/research/acjpaper.pdf)
