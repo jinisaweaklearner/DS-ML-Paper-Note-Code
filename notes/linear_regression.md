@@ -1,0 +1,2 @@
+great explanation of gradient descent dehttps://www.youtube.com/watch?v=sDv4f4s2SB8
+https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-2/C2_W2_Assignment.ipynb
